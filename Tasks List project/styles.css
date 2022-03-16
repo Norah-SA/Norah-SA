@@ -92,7 +92,7 @@ section{
     position: relative;
     z-index: 3;
     text-align: center;
-    width: 100%;
+    width: 50%;
     height: 100%;
     line-height: 30px;
 }
@@ -129,3 +129,7 @@ ol li button {
     right: 1rem;
     cursor: pointer;
 }
+<<<<<<< HEAD:Tasks List/styles.css
+
+=======
+>>>>>>> 3ec4f434dbc64f3f073d2ce5ee952f50d11819b4:Tasks List project/styles.css
