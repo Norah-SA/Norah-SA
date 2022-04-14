@@ -3,7 +3,7 @@
 <div align="center">
   <img src = "https://user-images.githubusercontent.com/88266321/163341404-bb09c689-b42f-410f-b75f-550cf9693b9a.gif">
 </div>
-- 👨‍💻 All of my projects are available at [https://github.com/Norah-SA/Norah-SA](https://github.com/Norah-SA/Norah-SA)
+- 👨‍💻 All of my projects are available at https://github.com/Norah-SA/Norah-SA
 
 
 
