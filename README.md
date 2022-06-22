@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Norah</h1>
 
 <div align="center">
-  <img src = "https://user-images.githubusercontent.com/88266321/163341404-bb09c689-b42f-410f-b75f-550cf9693b9a.gif" width="600" height="400" ">
+  <img src = "https://user-images.githubusercontent.com/88266321/175066625-ecb1045c-e265-4414-b735-a2b0813aad1a.gif" width="550" height="300" ">
 </div>
 <br>
 - 👨‍💻 All of my projects are available at https://github.com/Norah-SA/Norah-SA
+
 
 
 
