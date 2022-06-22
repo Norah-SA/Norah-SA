@@ -5,7 +5,10 @@
 </div>
 <br>
 - 👨‍💻 All of my projects are available at https://github.com/Norah-SA/Norah-SA
-
+<h3 align="center">Projects</h3>
+<div>
+                  <div background = "black" padding ="5px" width = "140px" height = "160px"><img src="https://user-images.githubusercontent.com/88266321/175066625-ecb1045c-e265-4414-b735-a2b0813aad1a.gif" alt=""  width="100" height="100" display = "block" margin-left = "auto" margin-right = "auto" ><div style="padding: 5px 16px;text-align: center;background-color: rgba(77, 75, 75, 0.897);"></div>
+                  </div>
 
 
 
