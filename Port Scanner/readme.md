@@ -1,5 +1,9 @@
 <h1 align="center">Port Scanner 🔍</h1>
-<div align="center"><img src ="https://user-images.githubusercontent.com/88266321/174660884-3ac9607b-757f-4319-8973-bd7ab05db69c.png"></div>
+<div align="center"><img src ="https://user-images.githubusercontent.com/88266321/174660884-3ac9607b-757f-4319-8973-bd7ab05db69c.png">
+<img src ="https://user-images.githubusercontent.com/88266321/175327144-b4c5f79a-5a80-4f54-95d6-a12186777507.png">
+</div>
+
+
 <p>Port Scanner is a computer software to determine which ports are opened or closed on the system. Used to identify the applications running on the system and help detect a potential security breach.</p>
 
 ### Built With
