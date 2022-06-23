@@ -6,11 +6,14 @@
 <br>
 - 👨‍💻 All of my projects are available at https://github.com/Norah-SA/Norah-SA
 <h3 align="center">🛠️ Projects</h3>
-<div>
-<p align="left"> <a href="https://github.com/Norah-SA/Norah-SA/tree/master/Port%20Scanner"> <img src="https://user-images.githubusercontent.com/88266321/175103001-ee4b6221-47c9-425f-ba13-d5855a9fa14a.png" alt="bootstrap" width="100" height="100"/><br>Port Scanner</a> 
-                  </div>
+
+ <table align="center">
+
+  <tr>
+    <td align="center"><a href="https://github.com/Norah-SA/Norah-SA/tree/master/Port%20Scanner"> <img src="https://user-images.githubusercontent.com/88266321/175103001-ee4b6221-47c9-425f-ba13-d5855a9fa14a.png" alt="bootstrap" width="100" height="100" /><br>Port Scanner</a> </td>
 
 
+</table> 
 
 
 
