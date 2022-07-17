@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Norah</h1>
 
 <div align="center">
-  <img src = "https://user-images.githubusercontent.com/88266321/175066625-ecb1045c-e265-4414-b735-a2b0813aad1a.gif" width="550" height="300" ">
+  <img src = "https://user-images.githubusercontent.com/88266321/179405910-c027624d-520b-4353-9d40-352f0d452df7.gif" height="300" ">
 </div>
-<br>
+<br><br>
 - 👨‍💻 All of my projects are available at https://github.com/Norah-SA/Norah-SA
 <h3 align="center">🛠️ Projects</h3>
 
@@ -14,6 +14,7 @@
 
 
 </table> 
+
 
 
 
